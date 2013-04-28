@@ -1,11 +1,11 @@
 {
     "name": "connect-mongodb",
     "description": "mongodb session store for connect",
-    "version": "1.2.7",
+    "version": "1.2.8",
     "author": "clinton.robinson@sascea.com",
     "contributors": ["Vladimir Dronnikov <dronnikov@gmail.com>", "Pau Ramon <masylum@gmail.com>", "ramv"],
     "repository": {"type": "git", "url": "git://github.com/masylum/connect-mongodb.git"},
-    "dependencies": {"mongodb": "1.2.8", "connect": "2.7.1"},
+    "dependencies": {"mongodb": "1.2.14", "connect": "2.7.6"},
     "devDependencies": {"testosterone": "1.2.0", "gently": "0.9.1", "funk": "1.5.0"},
     "main": "./lib/connect-mongodb"
 }
